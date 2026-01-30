@@ -29,7 +29,8 @@ const services = [
     num: '04',
     title: 'ML and LLM models engineering',
     href: '',
-    description: 'Gen AI, LLM prompting and fine tuning, ML models, ',
+    description:
+      'Gen AI, LLM prompting and fine tuning, ML models deisgn, CV, NLP, ',
   },
 ]
 const Services = () => {

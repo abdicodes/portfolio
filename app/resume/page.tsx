@@ -83,8 +83,13 @@ const education = {
   description: 'Courses and degree obtained.',
   items: [
     {
+      institution: 'EIT DIGITAL | University of Aalto, University of Trento',
+      degree: 'Masters in Autonomous Systems and Intelligent Robots ',
+      duration: '2020 - 2024',
+    },
+    {
       institution: 'University of London',
-      degree: 'Bachelor of Computer Science',
+      degree: 'Bachelors Hons in Computer Science',
       duration: '2020 - 2024',
     },
 
