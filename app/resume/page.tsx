@@ -85,7 +85,7 @@ const education = {
     {
       institution: 'EIT DIGITAL | University of Aalto, University of Trento',
       degree: 'Msc in Autonomous and Intelligent Systems ',
-      duration: '2020 - 2024',
+      duration: '2025 - 2027',
     },
     {
       institution: 'University of London',
